@@ -12,15 +12,15 @@ A partir de las consideraciones del planteamiento anterior construya un programa
 
 #### 1.- Análisis del Problema (S/E/P)
 
-** SALIDA: **
+**SALIDA:**
 
 Ganador de la batalla culinaria
 
-** ENTRADA: **
+**ENTRADA:**
 
 Calificaciones de los tres(3) jurados a ambos participantes
 
-** PROCESO: **
+**PROCESO:**
 
 Inicialmente se procede a leer o capturar las tres calificaciones del primer estudiante (calf1, calf2, calf3) posteriormente se suman y se dividen entre tres(3) para calcular el promedio.
 
