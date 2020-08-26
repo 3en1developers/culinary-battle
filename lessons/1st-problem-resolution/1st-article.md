@@ -1,8 +1,8 @@
-###LECCIÓN 1. RESOLUCIÓN DE PROBLEMAS
+### LECCIÓN 1. RESOLUCIÓN DE PROBLEMAS
 
 #### 1.1. Análisis de Problemas (Problem Analysis)
 
-**Categoría:**
+** Categoría: **
 Algorítmica, Programación, Lógica
 ** Autora: **
 Gabriella Bifano
@@ -16,21 +16,21 @@ Gabriella Bifano
 
 Cuando deseamos preparar un plato ideal y sabroso, vamos directamente al título de una receta cualquiera. Este título puede llevar algunos términos desconocidos, los cuales averiguamos a qué se refiere para entender de qué se trata. Digamos que el título de la receta es el problema que queremos resolver.
 
-**Ilustración 01. Receta de Tartletas de Chabacano**
+** Ilustración 01. Receta de Tartletas de Chabacano **
 
 En este caso buscamos que son tartletas y que es chabacano en la cocina.
 
 Al definir o analizar lo primero que establecemos es la salida, es decir el plato que queremos realizar, lo podemos ver en una imagen. Esta será la salida, la meta que se quiere alcanzar.
 
-**Ilustración 02. Foto de Tartletas de Chabacano **
+** Ilustración 02. Foto de Tartletas de Chabacano **
 
 Para poder hacer este plato requerimos unos ingredientes, unos insumos, lo que correspondería a los datos o entrada. Estos ingredientes los dividimos en tipos y cantidades.
 
-**Ilustración 03. Ingredientes de la Tartletas de Chabacano **
+** Ilustración 03. Ingredientes de la Tartletas de Chabacano **
 
 Cuando ya tenemos todos nuestros ingredientes  y medidos vamos a los pasos que nos indica la receta.  Para realizar una receta seguimos paso a paso las indicaciones para preparar el plato que deseamos, al seguir los pasos al pie de la letra, desde la primera hasta la última, el resultado debe ser el indicado en la foto. Esos pasos de la receta es lo que definimos en el proceso, son las instrucciones donde utilizamos los datos para lograr un resultado.
 
-**Ilustración 04. Instrucciones la receta de Tartletas de Chabacano **
+** Ilustración 04. Instrucciones la receta de Tartletas de Chabacano **
 
 Podemos encontrar una similitud entre las recetas y el análisis de problemas computacionales.
 

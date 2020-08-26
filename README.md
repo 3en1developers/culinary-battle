@@ -6,7 +6,7 @@ Acompañanos en este taller que te permitira poner en práctica tus conocimiento
 
 ### Tabla de Contenidos
 
-####Lección 1. Resolución de Problemas
+#### Lección 1. Resolución de Problemas
 
 * Análisis de problema
 * Diseño del algoritmo
@@ -30,8 +30,10 @@ Con gusto puedes escribirnos si deseas aclarar alguna duda, realizarnos sugerenc
 
 Nos encantaría conocerte, y créeme ese día nos esforzaremos por aportarte tanto valor como nos sea posible.
 
-* #####Achique Luis
+##### Achique Luis
+
 **Email:**
 achique.luisdan@gmail.com
+
 **Instagram:**
 @luisdan.achique
