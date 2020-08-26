@@ -23,6 +23,8 @@ Gabriella Bifano
 
 Cuando deseamos preparar un plato ideal y sabroso, vamos directamente al título de una receta cualquiera. Este título puede llevar algunos términos desconocidos, los cuales averiguamos a qué se refiere para entender de qué se trata. Digamos que el título de la receta es el problema que queremos resolver.
 
+ ![Ilustración 01. Receta de Tartletas de Chabacano](https://github.com/3-en-1-developers/culinary-battle/blob/master/lessons/media/ilustration-01.png) 
+ 
 **Ilustración 01. Receta de Tartletas de Chabacano**
 
 En este caso buscamos que son tartletas y que es chabacano en la cocina.
