@@ -26,11 +26,11 @@ Acompañanos en este taller que te permitira poner en práctica tus conocimiento
 
 ### Contacto (Contact)
 
-Con gusto puedes escribirnos si deseas aclarar alguna duda, realizarnos sugerencias o comentarios.
+Con gusto puedes escribirnos si deseas aclarar alguna duda, realizar sugerencias o comentarios.
 
-Nos encantaría conocerte, y créeme ese día nos esforzaremos por aportarte tanto valor como nos sea posible.
+Nos encantaría conocerte, y créeme ese día nos esforzaremos en aportarte tanto valor como nos sea posible.
 
-##### Achique Luis
+#### Achique Luis
 
 **Email:**
 achique.luisdan@gmail.com
